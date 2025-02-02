@@ -36,7 +36,7 @@ Sistema desenvolvido em Java para gerenciamento de contas e pagamentos, com func
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Gazera3/sistema-pagamentos.git
+git clone https://github.com/Gazera3/sistema-pgamentos.git
 ```
 
 2. Entre no diretório do projeto:
@@ -114,7 +114,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-* **Seu Nome** - *Desenvolvimento Inicial* - [seu-usuario](https://github.com/seu-usuario)
+* **Sophie** - *Desenvolvimento Inicial* - [gazera3](https://github.com/gazera3)
 
 ## 📄 Notas de Versão
 
